@@ -1,0 +1,13 @@
+.project__card__info__labels__label {
+  font-size: 12px !important;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.pink {
+  background: #e8738a;
+}
+
+.blue {
+  background: #2a8ade !important;
+}
