@@ -3,3 +3,21 @@
   min-height: 100vh;
   background: #282c49;
 }
+
+.project__main {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+iframe {
+  border: unset;
+  border-radius: 1rem;
+  width: 60%;
+}
+
+.project__cards {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
